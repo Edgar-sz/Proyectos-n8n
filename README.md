@@ -1,4 +1,3 @@
-# n8n-recordatorios-cobranza
 # 🚀 Guía de instalación: n8n, EasyPanel y Evolution API en Hostinger VPS
 
 Este repositorio contiene una guía práctica para instalar y configurar **n8n**, **EasyPanel** y **Evolution API** en un servidor VPS de **Hostinger**. El documento incluye imágenes, explicaciones y recomendaciones técnicas basadas en una implementación real.
